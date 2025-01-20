@@ -1,0 +1,26 @@
+
+Zona: a
+Contaminacion actual:
+CO2: 110.00
+SO2: 60.00
+NO2: 70.00
+PM2.5: 30.00
+Contaminacion historica:
+Día 1: CO2=100.00, SO2=40.00, NO2=50.00, PM2.5=25.00
+Día 2: CO2=105.00, SO2=45.00, NO2=55.00, PM2.5=28.00
+Día 3: CO2=110.00, SO2=50.00, NO2=60.00, PM2.5=30.00
+Día 4: CO2=120.00, SO2=55.00, NO2=65.00, PM2.5=35.00
+Día 5: CO2=130.00, SO2=60.00, NO2=70.00, PM2.5=40.00
+
+Zona: b
+Contaminacion actual:
+CO2: 95.00
+SO2: 45.00
+NO2: 50.00
+PM2.5: 20.00
+Contaminacion historica:
+Día 1: CO2=90.00, SO2=35.00, NO2=40.00, PM2.5=18.00
+Día 2: CO2=92.00, SO2=38.00, NO2=42.00, PM2.5=19.00
+Día 3: CO2=94.00, SO2=40.00, NO2=44.00, PM2.5=20.00
+Día 4: CO2=96.00, SO2=42.00, NO2=46.00, PM2.5=21.00
+Día 5: CO2=97.00, SO2=43.00, NO2=47.00, PM2.5=22.00

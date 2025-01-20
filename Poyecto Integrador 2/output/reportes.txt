@@ -1,0 +1,12 @@
+Zona: E
+Niveles de los ultimos 5 dias:
+Dia 1 - CO2: 44.00, SO2: 19.00, NO2: 23.00, PM2.5: 20.00
+Dia 2 - CO2: 45.00, SO2: 20.00, NO2: 24.00, PM2.5: 21.00
+Dia 3 - CO2: 46.00, SO2: 18.00, NO2: 22.00, PM2.5: 22.00
+Dia 4 - CO2: 47.00, SO2: 17.00, NO2: 20.00, PM2.5: 23.00
+Dia 5 - CO2: 46.00, SO2: 19.00, NO2: 19.00, PM2.5: 24.00
+Predicciones futuras:
+CO2: 45.20
+SO2: 18.80
+NO2: 22.40
+PM2.5: 21.33
